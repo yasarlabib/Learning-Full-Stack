@@ -14,7 +14,6 @@ This repository serves as my personal learning space, chronicling my progress in
 3. [Resources](#resources)
 4. [Progress](#progress)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Technologies
 
