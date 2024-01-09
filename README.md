@@ -35,8 +35,7 @@ This repository will host various projects that I'm building to apply and reinfo
 
 I'll be curating a list of helpful resources that I've found instrumental in my learning journey. These resources include tutorials, articles, videos, books, and online courses that have aided me in understanding different aspects of full-stack development.
 
-- [Work in Progress](link-to-resource)
-- [Work in Progress](link-to-resource)
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
 
 ## Progress
 
